@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of the "odin-recipes" project is practicing the HTML knowledge acquired in previous lessons. This is achieved by creating a basic recipe website with several pages, lists, images and links.
